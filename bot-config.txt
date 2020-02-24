@@ -1,0 +1,4 @@
+bot-config
+server : localhost
+botname : miranda
+engine : eb-001
